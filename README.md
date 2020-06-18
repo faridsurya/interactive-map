@@ -189,21 +189,21 @@ You can change the title, style, and visibility by modifying the config.json fil
         "fill":"rgba(255, 0, 0, 0.2)",
         "stroke":{
             "color":"white",
-            "widht":2
+            "width":2
         }
     },
     "mapSelected":{
         "fill":"rgba(255, 0, 0, 0.6)",
         "stroke":{
             "color":"green",
-            "widht":2
+            "width":2
         }
     },
     "mapHover":{
         "fill":"rgba(255, 0, 0, 0.6)",
         "stroke":{
             "color":"green",
-            "widht":2
+            "width":2
         }
     },
     "showMapTile":true,
