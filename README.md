@@ -63,6 +63,24 @@ You can change the HTML Page title by modify the title tag in `index.html`  file
   <link rel="icon" type="image/x-icon" href="./assets/dot.ico">
 ...
 ```
+## Add Custom Color of Area
+
+You can use the custom color of a specific area by adding the attribute in `data.json`.
+
+```
+[
+    ...
+    {
+      "ID": 6,
+      "kode": 3329,
+      "Propinsi": "JAWA TENGAH",
+      "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
+      "color":"green"
+    },
+    ...
+ ]
+```
+The color attribute will make the related area colored with green.
 
 ## Add Charts Data
 
