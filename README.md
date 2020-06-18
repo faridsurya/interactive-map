@@ -177,7 +177,7 @@ Text of your marker.
 **data***
 Your related marker data. If this attribute exists then you can click the marker image and show the dialog to display related data.
 
-## Change Title, Style, and Visibility
+## Change App Title, Style, and Visibility
 
 You can change the title, style, and visibility by modifying the config.json file. The contain of config.json file is:
 
